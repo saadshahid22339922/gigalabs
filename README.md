@@ -65,6 +65,13 @@ Running using Docker Compose. This will run up 3 containers, Express, Redis and 
 npm run dev
 ```
 
+To remove containers after stopping
+
+```sh
+docker-compose down
+```
+
+
 To Run project locally first create and [.env]. List down these env with your local service paths and then run
 
 - REDIS_URL=redis://redis
