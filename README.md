@@ -22,7 +22,7 @@ E-Fuse uses a number of open source projects to work properly:
 - [Docker] - To virtualize your whole project
 - [Redis] - An in memory data structure store
 
-And of course Dillinger itself is open source with a [public repository][efuse]
+And of course E-Fuse itself is open source with a [public repository][efuse]
 
 ## Installation
 
@@ -31,7 +31,7 @@ The E-Fuse has been divided into 2 projects Backend and Frontend
 Clone Repository:
 
 ```sh
-git clone https://github.com/saadshahid22339922/gigalab_temp.git
+git clone https://github.com/saadshahid22339922/gigalabs.git
 ```
 
 **FrontEnd!**
@@ -134,5 +134,5 @@ MIT
 [node.js]: http://nodejs.org
 [redis]: https://redis.io/
 [docker]: https://www.docker.com/
-[efuse]: https://github.com/saadshahid22339922/gigalab_temp
+[efuse]: https://github.com/saadshahid22339922/gigalabs.git
 [collection]: https://www.postman.com/restless-capsule-838874/workspace/gigalabs/collection/17093993-434b0919-ae94-4873-872b-268a68e8d4ce?ctx=documentation
