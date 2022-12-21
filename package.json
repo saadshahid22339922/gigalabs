@@ -1,0 +1,19 @@
+{
+  "name": "gigalab_temp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saadshahid22339922/gigalab_temp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saadshahid22339922/gigalab_temp/issues"
+  },
+  "homepage": "https://github.com/saadshahid22339922/gigalab_temp#readme"
+}
