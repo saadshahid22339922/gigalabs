@@ -53,7 +53,7 @@ npm run build
 
 **BackEnd!**
 
-The default port for frontend project will be 5000. To run project locally
+The default port for backend project will be 5000. To run project
 
 ```sh
 cd backend
